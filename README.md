@@ -5,6 +5,9 @@ The Internet of things (IoT) is the network of physical devices, vehicles, and o
 The IoT allows objects to be sensed or controlled remotely across existing network infrastructure,[5] creating opportunities for more direct integration of the physical world into computer-based systems, and resulting in improved efficiency, accuracy and economic benefit in addition to reduced human intervention.[6][7][8][9] When IoT is augmented with sensors and actuators, the technology becomes an instance of the more general class of cyber-physical systems, which also encompasses technologies such as smart grids, virtual power plants, smart homes, intelligent transportation and smart cities.
 "Things", in the IoT sense, can refer to a wide variety of devices such as heart monitoring implants, biochip transponders on farm animals, cameras streaming live feeds of wild animals in coastal waters,[10] automobiles with built-in sensors, DNA analysis devices for environmental/food/pathogen monitoring,[11] or field operation devices that assist firefighters in search and rescue operations.[12] Legal scholars suggest regarding "things" as an "inextricable mixture of hardware, software, data and service".[13]
 
+A growing portion of IoT devices are created for consumer use. Examples of consumer applications include connected car, entertainment, home automation (also known as smart home devices), wearable technology, quantified self, connected health, and appliances such as washer/dryers, robotic vacuums, air purifiers, ovens, or refrigerators/freezers that use Wi-Fi for remote monitoring.[49] Consumer IoT provides new opportunities for user experience and interfaces
+
+
 The term "Enterprise IoT," or EIoT, is used to refer to all devices used in business and corporate settings. By 2019, it is estimated the EIoT will account for nearly 40% or 9.1 billion devices. Large companies will see a more immediate profit from the widespread automation that IoT devices. [55]
 
 
